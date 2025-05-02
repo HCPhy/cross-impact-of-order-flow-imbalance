@@ -22,10 +22,14 @@ This repository was created as part of the Quantitative Internship trial project
 ## Project Structure
 
 ```
-<repo root>
-├── data/            # Sample CSV data for benchmarks and demos
-├── OFI.ipynb        # Jupyter notebook for end-to-end workflow
-└── README.md        # This file
+<repo‑root>
+├── data/                       # CSV snapshots used for quick demos & unit tests
+├── OFI.ipynb                   # End‑to‑end notebook: load → compute → visualise
+├── requirements.txt            # Exact Python deps (NumPy, pandas, scikit‑learn)
+├── LICENSE.txt                 # MIT license
+├── additional_question_writeup.pdf  # Short answers to the Blockhouse trial questions
+└── README.md                   # You’re reading it
+
 ```
 
 ---
