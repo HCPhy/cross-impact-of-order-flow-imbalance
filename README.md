@@ -23,7 +23,6 @@ This repository was created as part of the Quantitative Internship trial project
 
 ```
 <repo root>
-├── src/             # Source modules for OFI computation
 ├── data/            # Sample CSV data for benchmarks and demos
 ├── OFI.ipynb        # Jupyter notebook for end-to-end workflow
 └── README.md        # This file
@@ -71,13 +70,6 @@ This repository was created as part of the Quantitative Internship trial project
 ## Usage
 
 * **Notebook**: Open `OFI.ipynb` to follow a full example from data import to visualization.
-* **Scripts**: Use modules in `src/`, for example:
-
-  ```python
-  from src.compute_mid_price import compute_mid_price
-  from src.compute_ofi import compute_multi_level_ofi_rolling, compute_integrated_ofi
-  from src.compute_cross_impact import fit_cross_impact_lasso
-  ```
 
 ---
 

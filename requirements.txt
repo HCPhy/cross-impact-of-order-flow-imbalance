@@ -1,0 +1,5 @@
+# requirements.txt
+numpy==2.2.5        # array math  ── released Apr 19 2025  [oai_citation:0‡PyPI](https://pypi.org/project/numpy/?utm_source=chatgpt.com)
+pandas==2.2.3       # data frames ── released Sep 20 2024  [oai_citation:1‡PyPI](https://pypi.org/project/pandas/?utm_source=chatgpt.com)
+scikit-learn==1.6.1 # machine-learning utils ── released Jan 10 2025  [oai_citation:2‡PyPI](https://pypi.org/project/scikit-learn/?utm_source=chatgpt.com)
+
