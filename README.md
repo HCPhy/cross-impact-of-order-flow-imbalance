@@ -75,9 +75,8 @@ This repository was created as part of the Quantitative Internship trial project
 
 ## Results
 
-* Sample plots and benchmark metrics are in the notebook.
-* Best-level OFI explains \~50–70% of next-tick price moves on large-cap stocks.
-* Sparse cross-impact matrices reveal key inter-stock influences.
+- Interactive visualizations and detailed benchmark metrics are available within the notebook.
+- Additional analysis leveraging multi-stock data would require the `orderbook.csv` dataset, which includes more than one stock.
 
 ---
 
