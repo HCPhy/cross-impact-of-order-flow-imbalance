@@ -41,9 +41,9 @@ This repository was created as part of the Quantitative Internship trial project
 
 * **Cross-Asset Impact**: Estimate contemporaneous and predictive cross-impact via LASSO:
 
-  $$
+  $
   r_{i,t}^{h} = \alpha_i + \sum_j \beta_{i,j}\,\mathrm{ofi}_{j,t}^h + \eta_{i,t}
-  $$
+  $
 
 * **Log-Returns**: Event-level logarithmic returns:
   $\log\frac{P_{i,t}}{P_{i,t-h}}$
