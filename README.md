@@ -95,4 +95,4 @@ This repository was created as part of the Quantitative Internship trial project
 
 * **License**: MIT
 * Based on research by Cont, Cucuringu & Zhang (2023).
-* Developed during the Blockhouse Quant Internship Program.
+* Developed for the Blockhouse Quant Internship Trial.
